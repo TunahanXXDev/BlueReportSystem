@@ -1,0 +1,10 @@
+name: BlueReportSystem
+version: '${project.version}'
+main: dev.tunahanxx.BlueReportSystem
+api-version: 1.19
+authors: [TunahanXXDev]
+description: The Blue Report System
+
+commands:
+  report:
+  bluereportsystem:
